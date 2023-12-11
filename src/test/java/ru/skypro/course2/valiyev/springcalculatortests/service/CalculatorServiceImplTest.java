@@ -2,7 +2,6 @@ package ru.skypro.course2.valiyev.springcalculatortests.service;
 
 import org.junit.jupiter.api.Test;
 import ru.skypro.course2.valiyev.springcalculatortests.exception.CalculatorIllegalArgumentException;
-import ru.skypro.course2.valiyev.springcalculatortests.exception.NumericValuesExistsException;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static ru.skypro.course2.valiyev.springcalculatortests.constants.TestConstants.*;
